@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d75a20fa-2609-4158-a6cb-4ec0da8f94d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W1b0bQNXt4c1YpObmmp3DjtT2z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BinarySearchTreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.BinarySearchTreeTraversal" />
+      <module name="Data Structures in Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchTreeTraversal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d75a20fa-2609-4158-a6cb-4ec0da8f94d7" name="Default Changelist" comment="" />
+      <created>1578319826749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578319826749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom" timestamp="1578321314935">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.815@0.23.1440.815" timestamp="1578321186362" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.815@1440.23.1920.1057" timestamp="1578321314935" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center" timestamp="1578321314934">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.815@0.23.1440.815" timestamp="1578321186359" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.815@1440.23.1920.1057" timestamp="1578321314934" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left" timestamp="1578321314933">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.815@0.23.1440.815" timestamp="1578321186358" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.815@1440.23.1920.1057" timestamp="1578321314933" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right" timestamp="1578321314934">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="210" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.815@0.23.1440.815" timestamp="1578321186360" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.815@1440.23.1920.1057" timestamp="1578321314934" />
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1578319844506">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="376" y="266" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.817@0.23.1440.817" timestamp="1578319844506" />
+  </component>
+</project>
