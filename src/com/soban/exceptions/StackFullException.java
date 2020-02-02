@@ -1,4 +1,4 @@
-package com.soban.stack.byarray;
+package com.soban.exceptions;
 
 public class StackFullException extends RuntimeException {
 

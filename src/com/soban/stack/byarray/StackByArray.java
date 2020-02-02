@@ -1,5 +1,8 @@
 package com.soban.stack.byarray;
 
+import com.soban.exceptions.StackEmptyException;
+import com.soban.exceptions.StackFullException;
+
 public class StackByArray {
     int[] arr;
     int topOfStack;
